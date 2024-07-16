@@ -1,13 +1,13 @@
 // Código JavaScript para añadir interactividad
 const cards = [
-    { id: 1, icon: 'A' },
-    { id: 2, icon: 'B' },
-    { id: 3, icon: 'C' },
-    { id: 4, icon: 'D' },
-    { id: 5, icon: 'E' },
-    { id: 6, icon: 'F' },
-    { id: 7, icon: 'G' },
-    { id: 8, icon: 'H' },
+    { id: 1, 🌸: 'A' },
+    { id: 2, 🌽: 'B' },
+    { id: 3, 🚙: 'C' },
+    { id: 4, ❄️: 'D' },
+    { id: 5, ❄️: 'E' },
+    { id: 6, 🚙: 'F' },
+    { id: 7, 🌽: 'G' },
+    { id: 8, 🌸: 'H' },
 ];
 
 const game = document.querySelector('.memory-game');
